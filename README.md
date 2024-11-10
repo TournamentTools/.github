@@ -1,8 +1,5 @@
 ![TournamentTools - Darkmode](/static/logo_dark.svg#gh-dark-mode-only)
 ![TournamentTools - Lightmode](/static/logo_light.svg#gh-light-mode-only)
-#  
-
-# TournamentTools ORG.
 
 Welcome to the TournamentTools GitHub organization! This repository hosts the tools, resources, and projects related to our CompSaber platform, and user-hosted TournamentTools-kit.
 
