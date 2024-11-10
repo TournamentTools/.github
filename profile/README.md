@@ -23,7 +23,7 @@ A premade system, that allows You to self-host an overlay + a general tournament
 
 > [!IMPORTANT]
 > CompSaber is yet to be released.  
-> We're aiming for somewhere in Q1 of 2025 being the earliest, with early Q3 being the lastest, but We will **not** make any promised.
+> We're aiming for somewhere in Q1 of 2025 being the earliest, with early Q4 being the goal, but We will **not** make any promises.
 
 A cutting-edge tournament-platform, that aims to take the general tournament-scene to a higher level.  
 Everything is hosted through CompSaber, meaning that You won't have to host any files locally.
