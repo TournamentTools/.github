@@ -67,4 +67,4 @@ To ensure a positive and inclusive environment, please adhere to our community g
 
 ### License
 
-This repository is licensed under the [MIT License](link). See the `LICENSE` file for more information.
+This repository is licensed under the [MIT License](/LICENSE). See the `LICENSE` file for more information.
