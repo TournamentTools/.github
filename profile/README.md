@@ -50,8 +50,7 @@ Simply contact the CompSaber team, so We can get You started.
   - [Database](https://github.com/TournamentTools/database)
  
 - CompSaber
-  - [Frontend](https://github.com/TournamentTools/compsaber)
-  - [Backend](https://github.com/TournamentTools/compsaber-backend)
+  - [V2](https://github.com/TournamentTools/compsaberv2/)
 
 ### Community Guidelines
 
