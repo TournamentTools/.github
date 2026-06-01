@@ -19,8 +19,8 @@ Simply contact the CompSaber team, so We can get You started.
 ## So who are We?
 | Who | What | Where | 
 | :--: | :--: | :--: |
-| [Hawk](https://github.com/ThaNightHawk) | Frontend/Design | TournamentTools & CompSaber Frontend |
-| [Raine](https://github.com/raineaeternal) | Backend | TournamentTools & CompSaber Backend |
+| [Hawk](https://github.com/ThaNightHawk) | Frontend/Baccend/Design | CompSaber Everything |
+| [Raine](https://github.com/raineaeternal) | Backend & Tooling | CompSaber Backend & Tooling |
 
 
 ## Repository Overview
