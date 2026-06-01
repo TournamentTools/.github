@@ -51,6 +51,7 @@ Simply contact the CompSaber team, so We can get You started.
  
 - CompSaber
   - [V2](https://github.com/TournamentTools/compsaberv2/)
+  - [Docs](https://github.com/TournamentTools/docs)
 
 ### Community Guidelines
 
