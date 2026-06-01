@@ -1,23 +1,10 @@
 ![TournamentTools - Darkmode](../static/logo_dark.svg#gh-dark-mode-only)
 ![TournamentTools - Lightmode](../static/logo_light.svg#gh-light-mode-only)
 
-Welcome to the TournamentTools GitHub organization! This repository hosts the tools, resources, and projects related to our CompSaber platform, and user-hosted TournamentTools-kit.
+Welcome to the TournamentTools GitHub organization! This repository hosts the tools, resources, and projects related to our CompSaber platform.
 
-The GitHub Org is split into two. 
-- **TournamentTools**
+The GitHub Org is only used for one project right now:
 - **CompSaber**
-
-## TournamentTools
-> [!IMPORTANT]
-> TournamentTools V2 is yet to be released.
-> We have no time-frame for this, as We're focused on CompSaber.
-> 
-> TournmamentTools will release shortly after CompSaber's release, as CompSaber mainly will be using TournamentTools' systems.
-
-A premade system, that allows You to self-host an overlay + a general tournament management-system to handle players/matches, without having to code anything.
-
-> [!NOTE]
-> You will have to change images and assets, to make it more suited for Your tournament
 
 ## CompSaber
 
@@ -34,21 +21,14 @@ Simply contact the CompSaber team, so We can get You started.
 ## So who are We?
 | Who | What | Where | 
 | :--: | :--: | :--: |
-| [Hawk](https://github.com/ThaNightHawk) | Frontend/Design | TournamentTools & CompSaber Frontend |
-| [Raine](https://github.com/raineaeternal) | Backend | TournamentTools & CompSaber Backend |
+| [Hawk](https://github.com/ThaNightHawk) | Frontend/Baccend/Design | CompSaber Everything |
+| [Raine](https://github.com/raineaeternal) | Backend & Tooling | CompSaber Backend & Tooling |
 
 
 ## Repository Overview
 
-### Projects
+### Project links
 
-- TournamentTools
-  - [HTTP Backend](https://github.com/TournamentTools/http)
-  - [Relay](https://github.com/TournamentTools/relay)
-  - [Overlay](https://github.com/TournamentTools/overlay)
-  - [Automation](https://github.com/TournamentTools/automation)
-  - [Database](https://github.com/TournamentTools/database)
- 
 - CompSaber
   - [V2](https://github.com/TournamentTools/compsaberv2/)
   - [Docs](https://github.com/TournamentTools/docs)
