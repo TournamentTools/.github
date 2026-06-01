@@ -25,7 +25,7 @@ Simply contact the CompSaber team, so We can get You started.
 
 ## Repository Overview
 
-### Projects
+### Project links
  
 - CompSaber
   - [Website + Backend](https://github.com/TournamentTools/compsaberv2)
