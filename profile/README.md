@@ -21,7 +21,7 @@ Simply contact the CompSaber team, so We can get You started.
 ## So who are We?
 | Who | What | Where | 
 | :--: | :--: | :--: |
-| [Hawk](https://github.com/ThaNightHawk) | Frontend/Baccend/Design | CompSaber Everything |
+| [Hawk](https://github.com/ThaNightHawk) | Frontend/Backend/Design | CompSaber Everything |
 | [Raine](https://github.com/raineaeternal) | Backend & Tooling | CompSaber Backend & Tooling |
 
 
